@@ -13,8 +13,14 @@ pnpm dev
 # or
 bun dev
 ```
+## Contract Deployment
+![image](https://github.com/user-attachments/assets/8729fb28-e5cb-4f7b-9fad-703ce1c7d50f)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Connecting With Friends Frontend
+![image](https://github.com/user-attachments/assets/ba626626-a947-4466-9a8a-502e26d401a6)
+![image](https://github.com/user-attachments/assets/952bd2f4-f669-42fd-b7b4-ec281840d152)
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
