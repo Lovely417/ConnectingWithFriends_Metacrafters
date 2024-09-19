@@ -173,7 +173,7 @@ export default function HomePage() {
         <p className="justify-center flex font-bold text-4xl  mt-5">
           <span className="bg-gradient-to-r from-violet-600 to-cyan-500  bg-clip-text text-transparent">
             {" "}
-            SocioBlock
+            Connecting With friends
           </span>
         </p>
         <p className="flex justify-center m-2 font-thin">
